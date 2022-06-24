@@ -23,9 +23,12 @@ My name is Muhammad Edwin Khoirudin Latif and I'm a Junior Software Developer (B
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKL20&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MEKL20&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MEKL's GitHub Stats" />
+<a href="https://github.com/MEKL20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKL20&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
+</a>
+<a href="https://github.com/MEKL20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MEKL20&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MEKL's GitHub Stats" />
+</a>
 
 [instagram]: https://www.instagram.com/m_e_k_l_200998
 [linkedin]: https://www.linkedin.com/in/edwin-khoirudin-986713214/
