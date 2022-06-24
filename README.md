@@ -1,4 +1,4 @@
-# Hello, folks! <img src="wave.gif" width="30px">
+# Hello, folks! <img src="wave.gif">
 
 My name is Muhammad Edwin Khoirudin Latif and I'm a Junior Software Engineer (Backend Engineer). I'm from Indonesia, living in Yogyakarta.
 
